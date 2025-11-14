@@ -73,13 +73,11 @@ Build Agentic_AI from the source, install dependencies, and create your own LLM 
 
 3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+install **langchain** and **langchain_openai** in your **venv**
 
 ### Usage
 
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
+Run the project by the button **run all** or just by run each code block separately **(Ctrl + enter)**
 
 
 
