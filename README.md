@@ -77,7 +77,7 @@ install **langchain** and **langchain_openai** in your **venv**
 
 ### Usage
 
-Run the project by the button **run all** or just by run each code block separately **(Ctrl + enter)**
+Run the project by clicking the button **run all** on **VsCode**, or just by run each code block separately **(Ctrl + enter)**
 
 
 
