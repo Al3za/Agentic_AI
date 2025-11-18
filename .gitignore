@@ -1,0 +1,64 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.log
+*.tmp
+*.bak
+
+# --- Virtual environments ---
+venv/
+.env/
+.env.bak/
+.venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+*.nbextensions/
+
+# --- System / IDE files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Data files ---
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.pkl
+*.joblib
+
+# --- API keys or config ---
+key.txt*
+apikey*
+secret*
+config.json
+settings.json
+*.env
+
+# --- Build / dist / cache ---
+build/
+dist/
+*.egg-info/
+.cache/
+__cache__/
+*.spec
+
+# --- Miscellaneous ---
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
