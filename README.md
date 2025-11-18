@@ -43,6 +43,7 @@ This project aims to streamline the development of sophisticated AI assistants c
 - 🛠️ **🟢 Error Recovery:** Uses AI-driven strategies to analyze and resolve issues automatically, boosting system robustness.
 - 🔄 **🟠 Task Switching:** Automates seamless task transitions, enabling flexible and efficient workflows.
 - ⚙️ **🔵 Modular Architecture:** Designed for easy extension and customization to fit diverse application needs.
+- 🧠 **🟠 Lazy user** Handles **lazy requests**.
 - 🚀 **🟡 AI Integration:** Leverages advanced language models for intelligent decision-making and interaction handling.
 
 ---
@@ -53,7 +54,7 @@ This project aims to streamline the development of sophisticated AI assistants c
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** Python
 
 ### Installation
 
